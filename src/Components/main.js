@@ -8,8 +8,8 @@ import MyResume from "./myResume";
 const Main = () => {
     return (
         <Switch>
-            <Route exact path = '/' component={LandingPage}/>
-            <Route exact path = '/MyPortfolio' component={LandingPage}/>
+            <Route  path = '/MyPortfolio/' component={LandingPage}/>
+            <Route  path = '/' component={LandingPage}/>
             <Route  path = '/contact' component={MyContacts}/>
             <Route  path = '/resume' component={MyResume}/>
             <Route  path = '/projects' component={MyProjects}/>
