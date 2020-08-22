@@ -21,7 +21,7 @@ class LandingPage extends React.Component{
                                     <i className='fa fa-linkedin-square' aria-hidden='true'/>
                                 </a>
                                 {/* Github */}
-                                <a href="https://www.linkedin.com/in/akash-gupta-430667170/" target='_blank' rel="noopener noreferrer">
+                                <a href="https://github.com/Akash1012" target='_blank' rel="noopener noreferrer">
                                     <i className='fa fa-github-square' aria-hidden='true'/>
                                 </a>
                             </div>
